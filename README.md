@@ -43,7 +43,7 @@ Dengan cara ini, algoritma akan terus meminta pengguna untuk memasukkan angka sa
 ini lah gambar flowchart nya
 
 
-# membuat flowchat dengan python
+# membuat flowchart dengan python
 
 1. Inisialisasi max_number:
 
