@@ -73,9 +73,16 @@ Jika angka yang dimasukkan lebih besar dari max_number saat ini, maka max_number
 Setelah loop selesai (karena pengguna memasukkan 0), program mencetak nilai max_number, yang merupakan angka terbesar yang diinputkan oleh pengguna.
 
 
+penulisan python
+
+![gambar8](foto2/7..png)
+
+
+
+
 Ini adalah gambar hasil dari pyhton yang sudah dimasukan bilangan
 
-![gambar8](foto2/hasilnya.png)
+![gambar9](foto2/hasilnya.png)
 
 
 
