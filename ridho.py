@@ -1,18 +1,12 @@
-# Inisialisasi variabel max dengan nilai yang sangat kecil
-max = float(-1)
-
-# Loop untuk menerima input bilangan dari pengguna
+max_number = int(0)
+    
 while True:
-    # Input bilangan dari pengguna
-    num = int(input("Masukkan bilangan (0 untuk berhenti): "))
-    
-    # Periksa apakah bilangan yang dimasukkan adalah 0
-    if num == 0:
+    number = int(input("Masukkan bilangan (input 0 untuk berhenti): "))
+        
+    if number == 0:
         break
+        
+    if number > max_number:
+        max_number = number
     
-    # Periksa apakah bilangan yang dimasukkan lebih besar dari max_value
-    if num > max:
-        max = num
-
-# Tampilkan bilangan terbesar yang ditemukan
-print("Bilangan terbesar adalah:", max)
+print("Bilangan terbesar: ", max_number)
