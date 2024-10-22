@@ -29,7 +29,9 @@
 Dengan cara ini, algoritma akan terus meminta pengguna untuk memasukkan angka sampai pengguna memasukkan 0. Pada saat itu, algoritma akan mengeluarkan nilai maksimum yang ditemukan selama proses input.
 
 
-![gambar1]foto2/flowchart
+![gambar1](foto2/flowchart.jpg)
+
+
 ini lah gambar flowchart nya
 
 
@@ -37,43 +39,43 @@ ini lah gambar flowchart nya
 
 1. Inisialisasi max_number:
 
-![gambar2]foto2/1.
+![gambar2](foto2/1..png)
 
 Ini mengatur nilai awal max_number ke 0, yang berarti kita mulai tanpa angka maksimum yang ditentukan.
 
 2.Mulai loop while:
 
-![gambar3]foto2/2.
+![gambar3](foto2/2..png)
 
 Ini memulai loop yang akan terus berulang sampai kondisi break terpenuhi.
 
 3.Minta input angka:
 
-![gambar4]foto2/3.
+![gambar4](foto2/3..png)
 
 Program meminta pengguna untuk memasukkan angka. Jika pengguna memasukkan 0, loop akan berhenti.
 
 4.Cek apakah input adalah 0:
 
-![gambar5]foto2/4.
+![gambar5](foto2/4..png)
 
 Jika angka yang dimasukkan adalah 0, perintah break akan menghentikan loop
 
 5.Periksa apakah angka baru lebih besar dari max_number:
 
-![gambar6]foto2/5.
+![gambar6](foto2/5..png)
 Jika angka yang dimasukkan lebih besar dari max_number saat ini, maka max_number diperbarui dengan angka yang baru saja dimasukkan.
 
 6.Cetak hasil:
 
-![gambar7]foto2/6.
+![gambar7](foto2/6..png)
 
 Setelah loop selesai (karena pengguna memasukkan 0), program mencetak nilai max_number, yang merupakan angka terbesar yang diinputkan oleh pengguna.
 
 
 Ini adalah gambar hasil dari pyhton yang sudah dimasukan bilangan
 
-![gambar8]foto2/hasilnya
+![gambar8](foto2/hasilnya.png)
 
 
 
