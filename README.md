@@ -1,6 +1,14 @@
 # lab1
 
 # praktikum3
+ nama: M.RIDHO FEBRIAN
+ 
+ kelas: TI.24.A.5
+ 
+ Nim: 312410500
+
+ mata kuliah: bahasa pemograman
+
 
 # menentukan  bilangan terbesar 
 
